@@ -1,1 +1,2 @@
 This is file3.txt
+This is also file3.txt (edited)
